@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# Getting Started Meditab Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is our website you can visit [Our Meditab Website](https://hopeful-williams-905a9b.netlify.app/).
 
-## Available Scripts
+## Our Facilities
 
-In the project directory, you can run:
+In the below is our facilities
 
-### `npm start`
+* ### `24/7 Support and Service`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Medical services means any care, service, or treatment of , hospital surgical services, emergency services, ambulance services, chiropractic services, dental services, audiology services,
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* ### `Primary Healthcare`
 
-### `npm run build`
+you’ll gain access to advanced technology, treatments and research that may not be available elsewhere. You can feel confident that you’re being treated by our world-renowned experts, who deliver compassionate, comprehensive and individualized care
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* ### `Orthopaedic & Spine`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Our comprehensive heart services include general and preventive cardiology, cardiac testing and imaging, specialized cardiology and cardiac surgery.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+* ### `Cardiac Clinic`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+OAt UCLA Health, we partner with families to deliver expert, 
+ In addition to providing clinical care, our team is involved in community outreach. compassionate care to infants, children and teens.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* ### ` NeuroSergery`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Our top-rated neurosurgeons use advanced imaging and surgical techniques to treat neurological conditions, such as brain tumors and traumatic brain injury.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+* ### ` Cardiology`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+A range of specialized clinics offer targeted treatments for patients with complex conditions. Our services include everything from heart disease prevention to women’s cardiovascular services, minimally invasive surgery and heart transplantation.
