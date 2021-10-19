@@ -44,3 +44,21 @@
 .footer .touch{
     width: 20%;
 }
+
+@media screen and (max-width: 600px){
+    .footer{
+        display: block;
+    }
+    .footer .logo{
+        width: 100%;
+    }
+    .footer .departments{
+        width: 100%;
+    }
+    .footer .opening{
+        width: 100%;
+    }
+    .footer .touch{
+        width: 100%;
+    }
+}

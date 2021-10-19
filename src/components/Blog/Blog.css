@@ -19,3 +19,12 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 600px){
+    .blog-flex{
+        display: block;
+    }
+    .blog-flex .blog-item{
+        width: 100%;
+    }
+}

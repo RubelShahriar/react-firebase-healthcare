@@ -21,3 +21,15 @@
     text-align: left;
     background-color: #fff;
 }
+
+@media screen and (max-width: 600px){
+    .about-us{
+        display: block;
+    }
+    .about-image{
+        width: 100%;
+    }
+    .about-text{
+        width: 100%;
+    }
+}

@@ -4,7 +4,7 @@
 .history-top h2{
     margin-bottom: 40px;
 }
-.history{
+.history{ 
     display: flex;
     justify-content: space-between;
     background-color: rgba(255, 0, 0, .6);
@@ -15,4 +15,13 @@
 .history .history-item .icon{
     font-size: 100px;
     color: white;
+}
+
+@media screen and (max-width: 600px){
+    .history{
+        display: block;
+    }
+    .history .history-item{
+        margin: 10px 0px;
+    }
 }

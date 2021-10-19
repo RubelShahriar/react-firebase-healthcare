@@ -2,7 +2,6 @@ import { createUserWithEmailAndPassword, getAuth, updateProfile } from '@firebas
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import useAuth from '../Hooks/useAuth';
-import useFirebase from '../Hooks/useFirebase';
 import './Resister.css';
 
 
@@ -10,6 +9,7 @@ const Resister = () => {
     const [name, setName] = useState('');
     const {signInWithGoogle, signInWithGitHub} = useAuth();
     const auth = getAuth();
+    const [error, setError] = useState('');
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
@@ -38,19 +38,23 @@ const Resister = () => {
             console.log(user);
             setUserName();
         })
+        .catch(error => {
+            setError(error.message);
+        })
         console.log(email, password)
         e.preventDefault();
     }
 
-    return (
+    return ( 
         <div className='signup-form'>
-            <h2>Please Resister</h2>
+            <h1>Please Resister</h1>
                 <form onSubmit={resisterUser}>
                     <input type='text' onBlur={handleNameChange} className='input' placeholder='Name'></input>
                     <input type='email' onBlur={handleEmailChange} className='input' placeholder='Email' required></input>
                     <input type='password' onBlur={handlePasswordChange} className='input' placeholder='Password' required></input>
-                    <input type='submit' value='Sign Up'></input>
+                    <input type='submit' className='submit' value='Sign Up'></input>
                 </form>
+                <div className='error'>{error}</div>
                     <p>Already have an account? <Link to='/log-in'> Log In Now</Link></p>
                     <button onClick={signInWithGoogle}>LogIn with Google</button>
                     <button onClick={signInWithGitHub}>LogIn with GitHub</button>

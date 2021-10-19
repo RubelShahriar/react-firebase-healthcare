@@ -14,7 +14,7 @@ const Footer = () => {
                 <div className='icons'>
                 </div>
             </div>
-            <div className='departments'>
+            <div className='departments'> 
                 <h3>Departments</h3>
                 <ul>
                     <li>Dental Services</li>
