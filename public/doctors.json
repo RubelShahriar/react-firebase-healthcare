@@ -1,0 +1,26 @@
+[
+    {
+        "id":"101",
+        "name":"Emma thrase",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LNJOmQG1vBNRMgkc6-wUr4h4s4vDNnpoTw&usqp=CAU",
+        "degree":"achiology"
+    },
+    {
+        "id":"102",
+        "name":"Olivia Tyler",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlYwmsgLsB9OJqAAPRneMnLju5uS4TvHIYzw&usqp=CAU",
+        "degree":"achiology"
+    },
+    {
+        "id":"103",
+        "name":"Hannah Zoe",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUQOk3DsB01Y8AE4u2qiKcP4TKlPUBm_PBA&usqp=CAU",
+        "degree":"achiology"
+    },
+    {
+        "id":"103",
+        "name":"Ena Alexa",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdb8zjaM1GZpwz2rxW9s1bttCi0b-0lAU-xQ&usqp=CAU",
+        "degree":"achiology"
+    }
+]

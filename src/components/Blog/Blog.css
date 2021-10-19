@@ -1,0 +1,21 @@
+.blog{
+    margin-top: 60px;
+}
+.blog h2{
+    margin-bottom: 30px;
+}
+.blog-flex{
+    display: flex;
+}
+.blog-flex .blog-item{
+    width: 30%;
+    margin: 0 10px;
+}
+.blog-flex .blog-item img{
+    width: 100%;
+    height: 250px;
+}
+.blog-flex .inner-flex{
+    display: flex;
+    justify-content: space-between;
+}

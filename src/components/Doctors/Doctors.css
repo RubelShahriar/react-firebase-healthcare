@@ -1,0 +1,9 @@
+.doctor-service{
+    display: flex;
+} 
+.specialist{
+    margin-top: 50px;
+}
+.specialist h2{ 
+    margin-bottom: 20px;
+}

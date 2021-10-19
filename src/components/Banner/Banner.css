@@ -1,0 +1,9 @@
+.banner img{
+    height: 500px !important;
+}
+.banner h1{
+    color: red;
+}
+.banner p{
+    color: black;
+}

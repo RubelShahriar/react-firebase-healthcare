@@ -1,0 +1,26 @@
+.navbar{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    background: white;
+}
+.navbar .item{
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+}
+.navbar .route{
+    margin-right: 20px;
+}
+.navbar .item:hover{
+    color: orange;
+}
+.navbar .login{
+    text-decoration: none;
+    list-style: none;
+    background: #4becf2;
+    color: black;
+    border-radius: 5px;
+    padding: 8px 20px;
+    font-size: 16px;
+    font-weight: 600;
+}

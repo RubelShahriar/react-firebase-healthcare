@@ -1,0 +1,56 @@
+[
+    { 
+        "id": "101",
+        "name":"Robotic Surgery",
+        "image":"https://images.pexels.com/photos/6129049/pexels-photo-6129049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "description":"Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of  and disease involving the central and peripheral nervous systems,",
+        "price":"$50",
+        "doctorName":"Dr. Rass Venors",
+        "time":"11.00 am"
+    },
+    {
+        "id": "102",
+        "name":"Robotic Surgery",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxnbaPHL3bycgvWEQmQr6kCUknFK6MdPweA&usqp=CAU",
+        "description":"Pathology is the study of the causes and effects of disease or injury. The word pathology also refers to the study of disease in general, incorporating a wide range of biology research fields and medical practices.",
+        "price":"$50",
+        "doctorName":"Dr. Rass Venors",
+        "time":"11.00 am"
+    },
+    {
+        "id": "104",
+        "name":"Robotic Surgery",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLpxoHgvlUxBJdjUoNmLOKUp1lW7dbwwCpg&usqp=CAU",
+        "description":"A degree in medicine is essential for entry into this profession. Doctors  and community service. A National Senior Certificate that meets the requirements for a degree course is a prerequisite.",
+        "price":"$50",
+        "doctorName":"Dr. Rass Venors",
+        "time":"11.00 am"
+    },
+    {
+        "id": "104",
+        "name":"Robotic Surgery",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlK_tMAT5LnDHNbldIobM8KdOFWO_cfzQtgg&usqp=CAU",
+        "description":"Neurologists are doctors who diagnose and treat problems with the brain and nervous system. They don't do surgery. Your doctor might recommend that you see one if they think you have an illness that needs expert care.",
+        "price":"$50",
+        "doctorName":"Dr. Rass Venors",
+        "time":"11.00 am"
+    },
+    {
+        "id": "104",
+        "name":"Robotic Surgery",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqAR6S7iesdi2yolTAC2IUgE71ReSjMHmZg&usqp=CAU",
+        "description":"Since neurology deals with your brain and entire nervous system, there are many conditions that a neurologist can diagnose and treat. Many go to study a specific subset of neurology after they finish their residency training.",
+        "price":"$50",
+        "doctorName":"Dr. Rass Venors",
+        "time":"11.00 am"
+    },
+    {
+        "id": "104",
+        "name":"Robotic Surgery",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8Wo8I4L7EgvlbJtxuawvM_bg7HfH3xh5tA&usqp=CAU",
+        "description":"A study of your brain function called an electroencephalograph, or EEG. This is done if you're having seizures. Small scalp, and they're connected to a machine by wires. The machine records the electrical activity in your brain.",
+        "price":"$50",
+        "doctorName":"Dr. Rass Venors",
+        "time":"11.00 am"
+    }
+]

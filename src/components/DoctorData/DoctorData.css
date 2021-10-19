@@ -1,0 +1,20 @@
+.doctors-intro{
+    background: #f5f6fa;
+    padding-bottom: 80px;
+    border-radius: 15px;
+    border: 4px solid #a2d6d3;
+    
+}
+.doctors-intro:hover{
+    transform: scale(1.1);
+    transition: .4s;
+}
+.doctors-intro img{
+    width: 100%;
+    height: 200px;
+    border-radius: 15px;
+}
+.doctors-intro p{
+    font-size: 21px;
+    color: #4fd9d5;
+}
