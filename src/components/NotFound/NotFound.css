@@ -1,0 +1,15 @@
+.notfound{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0px;
+}
+.notfound h1{
+    color: red;
+    font-size: 60px;
+    
+}
+.notfound h3{
+    color: red;
+    font-size: 30px;
+}

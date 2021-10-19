@@ -37,7 +37,7 @@ const LogIn = () => {
 
     return (
         <div className='login-form'>
-            <h2> Please log In</h2>
+            <h2> Please Log In</h2>
                 <form onSubmit={logInUser}>
                     <input type='email' onBlur={handleEmailChange} className='input' placeholder='Email' required></input>
                     <input type='password' onBlur={handlePasswordChange} className='input' placeholder='Password' required></input>
