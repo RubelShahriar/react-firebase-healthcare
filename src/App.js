@@ -17,6 +17,7 @@ import NotFound from './components/NotFound/NotFound';
 import AuthProvider from './context/AuthProvider';
 import ServiceData from './components/ServiceData/ServiceData';
 import PrivateRoute from './components/PrivateRoute/PrivateRoute';
+import AboutUs from './components/AboutUs/AboutUs';
 
 function App() {
   return (
@@ -30,6 +31,9 @@ function App() {
             </Route>
             <Route path='/home'>
               <Home></Home>
+            </Route>
+            <Route path='/about-us'>
+              <AboutUs></AboutUs>
             </Route>
             <Route path='/services'>
               <Services></Services>

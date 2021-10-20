@@ -16,9 +16,9 @@ const Header = () => {
     </Navbar.Brand>
       <Navbar.Toggle />
     <Navbar.Collapse className="justify-content-end">
-      <Link className="item" to="/home">Home</Link>
-      <Nav.Link className="item" to="/home#about-us">About us</Nav.Link>
-      <Nav.Link className="item" to="/home#about-us">Services</Nav.Link>
+      <Link className="item route" to="/home">Home</Link>
+      <Link className="item route" to="/about-us">About Us</Link>
+      <Link className="item route" to="/services">Services</Link>
       <Link to='/doctors' className='item route'>Doctors</Link>
       <Link to='/pricing' className='item route'>Pricing</Link>
       <Navbar.Text className='route'>
