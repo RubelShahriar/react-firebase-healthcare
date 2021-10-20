@@ -1,25 +1,25 @@
 [
     { 
         "id": "101",
-        "name":"Robotic Surgery",
+        "name":"Mental health care",
         "image":"https://images.pexels.com/photos/6129049/pexels-photo-6129049.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
-        "description":"Neurology is a branch of medicine dealing with disorders of the nervous system. Neurology deals with the diagnosis and treatment of all categories of  and disease involving the central and peripheral nervous systems,",
+        "description":"Psychiatric care of the pretransplant patient is based on the bio-psycho-social approach. Psychotropic medications are often a mainstay of treatment. Enhancement of a network of social  is crucial.",
         "price":"$50",
         "doctorName":"Dr. Rass Venors",
         "time":"11.00 am"
     },
     {
         "id": "102",
-        "name":"Robotic Surgery",
+        "name":"Laboratory and diagnostic",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxnbaPHL3bycgvWEQmQr6kCUknFK6MdPweA&usqp=CAU",
-        "description":"Pathology is the study of the causes and effects of disease or injury. The word pathology also refers to the study of disease in general, incorporating a wide range of biology research fields and medical practices.",
+        "description":"Diagnostic care includes tests/procedures ordered by a physician and office visits needed to help diagnose or monitor your condition or disease. Diagnostic tools include radiology, and other tests.",
         "price":"$50",
         "doctorName":"Dr. Rass Venors",
         "time":"11.00 am"
     },
     {
         "id": "104",
-        "name":"Robotic Surgery",
+        "name":"Substance abuse treatment",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLpxoHgvlUxBJdjUoNmLOKUp1lW7dbwwCpg&usqp=CAU",
         "description":"A degree in medicine is essential for entry into this profession. Doctors  and community service. A National Senior Certificate that meets the requirements for a degree course is a prerequisite.",
         "price":"$50",
@@ -28,27 +28,27 @@
     },
     {
         "id": "104",
-        "name":"Robotic Surgery",
+        "name":"Pharmaceutical care",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlK_tMAT5LnDHNbldIobM8KdOFWO_cfzQtgg&usqp=CAU",
-        "description":"Neurologists are doctors who diagnose and treat problems with the brain and nervous system. They don't do surgery. Your doctor might recommend that you see one if they think you have an illness that needs expert care.",
+        "description":"Neurologists are doctors who diagnose and treat problems with the brain and nervous system. They don't do surgery. Your doctor might recommend that you see one if they think you have expert.",
         "price":"$50",
         "doctorName":"Dr. Rass Venors",
         "time":"11.00 am"
     },
     {
         "id": "104",
-        "name":"Robotic Surgery",
+        "name":"Preventative care",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfqAR6S7iesdi2yolTAC2IUgE71ReSjMHmZg&usqp=CAU",
-        "description":"Since neurology deals with your brain system, there are many conditions that a neurologist can diagnose and treat. Many go to study a specific subset of neurology after they finish their residency training.",
+        "description":"Since neurology deals barain  with your brain system, there are many conditions that a neurologist can diagnose and treat. Many go to study a specific subset of neurology after they finish their  training.",
         "price":"$50",
         "doctorName":"Dr. Rass Venors",
         "time":"11.00 am"
     },
     {
         "id": "104",
-        "name":"Robotic Surgery",
+        "name":"Nutritional support",
         "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8Wo8I4L7EgvlbJtxuawvM_bg7HfH3xh5tA&usqp=CAU",
-        "description":"A study of your brain function called an electroencephalograph, or EEG. This is done if you're having seizures. Small scalp, and they're connected to a machine by wires. The machine records the electrical activity in your brain.",
+        "description":"A study of your brain function called an electroencephalograph, or EEG. This is done if you're having seizures. Small scalp, and they're  to a machine by wires. The machine record activity brain.",
         "price":"$50",
         "doctorName":"Dr. Rass Venors",
         "time":"11.00 am"

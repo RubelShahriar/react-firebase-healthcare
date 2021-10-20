@@ -14,8 +14,8 @@ const ServiceData = (props) => {
                   </div>
                   <div className='text'>
                   <Card.Body>
-                    <Card.Title><h3>Name: {name}</h3></Card.Title>
-                    <Card.Text>Duration: {description}</Card.Text>
+                    <Card.Title><h3>{name}</h3></Card.Title>
+                    <Card.Text> {description}</Card.Text>
                   </Card.Body>
                   <div>
                   <Link className='link' to="/log-in">Details</Link>

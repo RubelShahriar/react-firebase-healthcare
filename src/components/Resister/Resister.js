@@ -55,7 +55,7 @@ const Resister = () => {
                     <input type='submit' className='submit' value='Sign Up'></input>
                 </form>
                 <div className='error'>{error}</div>
-                    <p>Already have an account? <Link to='/log-in'> Log In Now</Link></p>
+                    <p>Already have an account? <Link to='/log-in'> LogIn Now</Link></p>
                     <button onClick={signInWithGoogle}>LogIn with Google</button>
                     <button onClick={signInWithGitHub}>LogIn with GitHub</button>
         </div>

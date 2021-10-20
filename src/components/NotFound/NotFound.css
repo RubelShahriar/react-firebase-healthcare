@@ -7,17 +7,18 @@
 .notfound h3 .link{
     text-decoration: none;
     font-size: 20px;
-    background-color: #4becf2;
+    background-color: teal;
     display: inline-block;
     padding: 10px 20px;
     margin-top: 30px;
     border-radius: 15px;
-    color: black;
+    color: white;
 }
 .notfound img{
     width: 90%;
     display: block;
     margin: 0 auto;
-    border: 3px dotted #4becf2;
+    border: 3px dotted teal;
     border-radius: 20px;
+    color: white;
 }

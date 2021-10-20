@@ -31,7 +31,7 @@ const Pricing = () => {
                 </div>
                 <div className='pricing-item'>
                     <div className='diagnostics'>
-                            <h4>Diagnostics</h4>
+                            <h4>Laboratory and diagnostic</h4>
                             <p>Feature laboratory</p>
                         </div>
                         <div>
@@ -48,7 +48,7 @@ const Pricing = () => {
                 </div>
                 <div className='pricing-item'>
                     <div className='diagnostics'>
-                            <h4>Diagnostics</h4>
+                            <h4>Computed Tomography</h4>
                             <p>Feature laboratory</p>
                         </div>
                         <div>
@@ -65,7 +65,7 @@ const Pricing = () => {
                 </div>
                 <div className='pricing-item'>
                     <div className='diagnostics'>
-                            <h4>Diagnostics</h4>
+                            <h4>Magnetic Resonance</h4>
                             <p>Feature laboratory</p>
                         </div>
                         <div>

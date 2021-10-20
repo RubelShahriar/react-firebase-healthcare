@@ -12,7 +12,7 @@ const Header = () => {
             <Navbar className='padding' bg="light" variant="white" collapseOnSelect expand="lg" sticky="top">
     <Container> 
     <Navbar.Brand to="#home">
-      <img src={image} alt=''></img>
+      <Link to='/home'><img src={image} alt=''></img></Link>
     </Navbar.Brand>
       <Navbar.Toggle />
     <Navbar.Collapse className="justify-content-end">

@@ -14,18 +14,19 @@
 }
 .login-form .submit{
     margin: 20px 0px;
-    background-color: #4becf2;
+    background-color: teal;
     padding: 8px 20px;
     border-radius: 10px;
-    border-color: #4becf2;
+    border-color: teal;
+    color: white;
 }
 .login-form button{
-    background: #4becf2;
+    background: teal;
     display: block;
     margin: 0 auto;
     margin-bottom: 10px;
     padding: 5px 60px;
-    color: black;
+    color: white;
     font-size: 18px;
     border-radius: 20px;
     font-weight: 500;

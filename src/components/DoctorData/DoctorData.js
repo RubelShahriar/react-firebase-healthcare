@@ -3,7 +3,7 @@ import { Container } from 'react-bootstrap';
 import './DoctorData.css';
 
 const DoctorData = (props) => {
-    const {name, image, degree} = props.doctor;
+    const {name, image, degree, description} = props.doctor;
     return (
             <Container>
                 <div  className='doctors-intro'>
@@ -12,7 +12,8 @@ const DoctorData = (props) => {
                     </div>
                     <div className='text'>
                         <h3>{name}</h3>
-                        <p>{degree}</p>
+                        <h4>{degree}</h4>
+                        <p>{description}</p>
                     </div>
                 </div>
             </Container> 
